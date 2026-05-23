@@ -65,6 +65,8 @@ for _, row in df.iterrows():
       "edge": (model_home_prob - market_home_fair) if model_home_prob is not None and market_home_fair is not None else None,
       "away_ml_avg": row.get("away_ml_avg"),
       "home_ml_avg": row.get("home_ml_avg"),
+      "away_ml_best": row.get("away_ml_best"),
+      "home_ml_best": row.get("home_ml_best"),
     })
 
 predictions_df = pd.DataFrame(predictions)

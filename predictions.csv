@@ -1,109 +1,125 @@
-date,game_pk,model_version,away_team,home_team,away_wins,away_losses,home_wins,home_losses,model_home_prob,market_home_prob,edge,away_ml_avg,home_ml_avg
-2026-05-14,823383,v1_team_records,Colorado Rockies,Pittsburgh Pirates,17,27,24,20,0.585,,,,
-2026-05-14,824517,v1_team_records,Washington Nationals,Cincinnati Reds,21,23,23,21,0.523,,,,
-2026-05-14,823630,v1_team_records,Detroit Tigers,New York Mets,19,25,18,25,0.492,,,,
-2026-05-14,823709,v1_team_records,Miami Marlins,Minnesota Twins,20,24,20,24,0.5,,,,
-2026-05-14,823789,v1_team_records,San Diego Padres,Milwaukee Brewers,25,18,24,17,0.502,,,,
-2026-05-14,824196,v1_team_records,Seattle Mariners,Houston Astros,22,23,17,28,0.436,,,,
-2026-05-14,825008,v1_team_records,St. Louis Cardinals,Athletics,25,18,22,21,0.468,,,,
-2026-05-14,824762,v1_team_records,Philadelphia Phillies,Boston Red Sox,20,23,18,24,0.48,0.556,-0.077,-76.7,-119.5
-2026-05-14,824926,v1_team_records,Chicago Cubs,Atlanta Braves,27,16,30,13,0.526,0.683,-0.156,196.7,-263.5
-2026-05-14,824602,v1_team_records,Kansas City Royals,Chicago White Sox,19,24,21,21,0.531,0.359,0.172,-215.5,161.8
-2026-05-14,823950,v1_team_records,San Francisco Giants,Los Angeles Dodgers,18,25,25,18,0.581,0.614,-0.033,149.2,-176.1
-2026-05-16,824278,v1_team_records,Toronto Blue Jays,Detroit Tigers,19,25,20,25,0.507,0.511,-0.004,-103.6,-113.1
-2026-05-16,823060,v1_team_records,Kansas City Royals,St. Louis Cardinals,19,26,26,18,0.583,0.458,0.126,56.2,-117.7
-2026-05-16,824359,v1_team_records,Arizona Diamondbacks,Colorado Rockies,21,22,17,28,0.436,0.436,0.0,-141.2,120.9
-2026-05-16,822737,v1_team_records,Baltimore Orioles,Washington Nationals,20,25,22,23,0.524,0.502,0.022,-107.3,-108.9
-2026-05-16,823382,v1_team_records,Philadelphia Phillies,Pittsburgh Pirates,22,23,24,21,0.522,0.396,0.126,-168.6,143.1
-2026-05-16,822981,v1_team_records,Miami Marlins,Tampa Bay Rays,20,25,29,14,0.603,0.564,0.039,121.0,-141.4
-2026-05-16,824435,v1_team_records,Cincinnati Reds,Cleveland Guardians,24,21,24,22,0.495,0.59,-0.096,134.7,-159.3
-2026-05-16,824193,v1_team_records,Texas Rangers,Houston Astros,21,23,18,28,0.45,0.428,0.022,-145.9,124.9
-2026-05-16,824600,v1_team_records,Chicago Cubs,Chicago White Sox,29,16,22,22,0.437,0.655,-0.218,-38.4,-111.2
-2026-05-16,823706,v1_team_records,Milwaukee Brewers,Minnesota Twins,25,17,20,25,0.427,0.468,-0.041,-123.3,106.0
-2026-05-16,823139,v1_team_records,San Diego Padres,Seattle Mariners,26,18,22,24,0.447,0.606,-0.159,144.6,-170.2
-2026-05-16,824924,v1_team_records,Boston Red Sox,Atlanta Braves,18,26,31,14,0.628,0.536,0.091,107.8,-125.4
-2026-05-16,823627,v1_team_records,New York Yankees,New York Mets,28,17,18,26,0.397,0.468,-0.071,-123.7,105.8
-2026-05-16,824038,v1_team_records,Los Angeles Dodgers,Los Angeles Angels,27,18,16,29,0.372,0.443,-0.071,-136.9,117.2
-2026-05-16,825007,v1_team_records,San Francisco Giants,Athletics,18,27,23,21,0.567,0.55,0.017,114.0,-132.9
-2026-05-15,823384,v1_team_records,Philadelphia Phillies,Pittsburgh Pirates,21,23,24,20,0.533,0.55,-0.017,114.1,-133.3
-2026-05-15,822739,v1_team_records,Baltimore Orioles,Washington Nationals,20,24,21,23,0.512,0.443,0.069,-137.0,117.4
-2026-05-15,824280,v1_team_records,Toronto Blue Jays,Detroit Tigers,19,24,19,25,0.494,0.46,0.034,-127.3,109.2
-2026-05-15,824439,v1_team_records,Cincinnati Reds,Cleveland Guardians,23,21,24,21,0.505,0.557,-0.053,117.6,-137.4
-2026-05-15,822983,v1_team_records,Miami Marlins,Tampa Bay Rays,20,24,28,14,0.594,0.424,0.17,35.4,-119.2
-2026-05-15,823707,v1_team_records,Milwaukee Brewers,Minnesota Twins,24,17,20,24,0.438,0.503,-0.065,-108.5,-110.8
-2026-05-15,824925,v1_team_records,Boston Red Sox,Atlanta Braves,18,25,30,14,0.619,0.58,0.04,129.2,-151.4
-2026-05-15,823629,v1_team_records,New York Yankees,New York Mets,27,17,18,25,0.406,0.417,-0.012,-153.1,130.8
-2026-05-15,824601,v1_team_records,Chicago Cubs,Chicago White Sox,28,16,22,21,0.446,0.426,0.02,-147.4,125.8
-2026-05-15,824194,v1_team_records,Texas Rangers,Houston Astros,21,22,17,28,0.436,0.499,-0.063,-108.4,-107.7
-2026-05-15,823061,v1_team_records,Kansas City Royals,St. Louis Cardinals,19,25,25,18,0.574,0.507,0.067,-105.0,-111.2
-2026-05-15,824360,v1_team_records,Arizona Diamondbacks,Colorado Rockies,20,22,17,27,0.448,0.47,-0.022,-122.2,104.9
-2026-05-15,824037,v1_team_records,Los Angeles Dodgers,Los Angeles Angels,26,18,16,28,0.381,0.324,0.057,-235.9,197.0
-2026-05-15,823140,v1_team_records,San Diego Padres,Seattle Mariners,25,18,22,23,0.457,0.553,-0.096,115.7,-134.9
-2026-05-15,825009,v1_team_records,San Francisco Giants,Athletics,18,26,22,21,0.556,0.55,0.006,114.2,-133.2
-2026-05-17,822982,v1_team_records,Miami Marlins,Tampa Bay Rays,21,26,30,15,0.599,,,,
-2026-05-17,822738,v1_team_records,Baltimore Orioles,Washington Nationals,20,26,23,23,0.535,0.091,0.444,-2646.6,942.0
-2026-05-17,823381,v1_team_records,Philadelphia Phillies,Pittsburgh Pirates,23,23,24,22,0.511,0.068,0.443,-6700.0,1299.0
-2026-05-17,824923,v1_team_records,Boston Red Sox,Atlanta Braves,19,26,31,15,0.615,0.971,-0.356,3300.0,-10000.0
-2026-05-17,824436,v1_team_records,Cincinnati Reds,Cleveland Guardians,24,22,25,22,0.505,0.953,-0.448,1950.0,-10000.0
-2026-05-17,824279,v1_team_records,Toronto Blue Jays,Detroit Tigers,20,25,20,26,0.495,0.065,0.43,-7500.0,1358.8
-2026-05-17,823628,v1_team_records,New York Yankees,New York Mets,28,18,19,26,0.409,0.205,0.205,-604.3,353.0
-2026-05-17,824192,v1_team_records,Texas Rangers,Houston Astros,21,24,19,28,0.464,0.179,0.285,-698.3,424.8
-2026-05-17,824599,v1_team_records,Chicago Cubs,Chicago White Sox,29,17,23,22,0.448,0.232,0.216,-446.5,305.3
-2026-05-17,823708,v1_team_records,Milwaukee Brewers,Minnesota Twins,26,17,20,26,0.418,0.601,-0.182,135.3,-177.3
-2026-05-17,823058,v1_team_records,Kansas City Royals,St. Louis Cardinals,19,27,27,18,0.592,0.252,0.34,-392.0,271.7
-2026-05-17,824358,v1_team_records,Arizona Diamondbacks,Colorado Rockies,21,23,18,28,0.45,0.43,0.02,-145.0,123.6
-2026-05-17,825006,v1_team_records,San Francisco Giants,Athletics,19,27,23,22,0.553,0.573,-0.02,125.6,-146.7
-2026-05-17,824034,v1_team_records,Los Angeles Dodgers,Los Angeles Angels,28,18,16,30,0.364,0.431,-0.068,-144.3,123.3
-2026-05-17,823138,v1_team_records,San Diego Padres,Seattle Mariners,27,18,22,25,0.438,0.594,-0.156,137.3,-161.2
-2026-05-19,823865,v1_team_records,Atlanta Braves,Miami Marlins,32,16,22,26,0.407,0.435,-0.028,-141.9,121.2
-2026-05-19,824276,v1_team_records,Cleveland Guardians,Detroit Tigers,27,22,20,28,0.431,0.467,-0.037,-123.6,106.2
-2026-05-19,822979,v1_team_records,Baltimore Orioles,Tampa Bay Rays,21,27,31,15,0.606,0.42,0.186,34.0,-117.6
-2026-05-19,823464,v1_team_records,Cincinnati Reds,Philadelphia Phillies,24,24,25,23,0.51,0.567,-0.056,122.2,-142.9
-2026-05-19,822736,v1_team_records,New York Mets,Washington Nationals,21,26,23,25,0.517,0.431,0.086,-144.7,123.2
-2026-05-19,823548,v1_team_records,Toronto Blue Jays,New York Yankees,21,26,29,19,0.575,0.555,0.02,116.2,-135.7
-2026-05-19,824112,v1_team_records,Boston Red Sox,Kansas City Royals,20,27,20,28,0.495,0.457,0.038,-129.3,110.6
-2026-05-19,823704,v1_team_records,Houston Astros,Minnesota Twins,19,30,22,26,0.541,0.557,-0.015,117.3,-137.1
-2026-05-19,824677,v1_team_records,Milwaukee Brewers,Chicago Cubs,27,18,29,19,0.502,0.169,0.333,-115.2,-12.2
-2026-05-19,823059,v1_team_records,Pittsburgh Pirates,St. Louis Cardinals,24,23,27,19,0.535,0.663,-0.129,-36.8,-112.8
-2026-05-19,824356,v1_team_records,Texas Rangers,Colorado Rockies,22,25,19,29,0.458,0.467,-0.009,-124.0,106.2
-2026-05-19,824033,v1_team_records,Athletics,Los Angeles Angels,23,24,17,31,0.42,0.543,-0.123,110.7,-129.1
-2026-05-19,823302,v1_team_records,Los Angeles Dodgers,San Diego Padres,29,19,29,18,0.505,0.412,0.094,-156.9,134.0
-2026-05-19,825086,v1_team_records,San Francisco Giants,Arizona Diamondbacks,20,28,23,23,0.545,0.498,0.048,81.0,-120.9
-2026-05-19,823136,v1_team_records,Chicago White Sox,Seattle Mariners,24,23,23,26,0.479,0.576,-0.097,126.9,-148.6
-2026-05-20,823462,v1_team_records,Cincinnati Reds,Philadelphia Phillies,25,24,25,24,0.5,0.583,-0.083,131.1,-153.1
-2026-05-20,822977,v1_team_records,Baltimore Orioles,Tampa Bay Rays,21,28,32,15,0.614,0.462,0.152,57.7,-119.3
-2026-05-20,823703,v1_team_records,Houston Astros,Minnesota Twins,20,30,22,27,0.529,0.575,-0.046,126.3,-148.0
-2026-05-20,824355,v1_team_records,Texas Rangers,Colorado Rockies,23,25,19,30,0.448,0.468,-0.02,-123.4,106.0
-2026-05-20,825084,v1_team_records,San Francisco Giants,Arizona Diamondbacks,20,29,24,23,0.556,0.548,0.008,113.0,-132.1
-2026-05-20,823134,v1_team_records,Chicago White Sox,Seattle Mariners,25,23,23,27,0.469,0.574,-0.105,126.3,-147.2
-2026-05-20,824273,v1_team_records,Cleveland Guardians,Detroit Tigers,28,22,20,29,0.421,0.473,-0.052,-120.4,103.6
-2026-05-20,823866,v1_team_records,Atlanta Braves,Miami Marlins,33,16,22,27,0.4,0.368,0.033,-191.6,161.9
-2026-05-20,822735,v1_team_records,New York Mets,Washington Nationals,21,27,24,25,0.528,0.463,0.065,-125.9,108.0
-2026-05-20,823547,v1_team_records,Toronto Blue Jays,New York Yankees,21,27,30,19,0.583,0.61,-0.027,147.0,-173.2
-2026-05-20,824111,v1_team_records,Boston Red Sox,Kansas City Royals,21,27,20,29,0.482,0.522,-0.04,101.8,-118.2
-2026-05-20,824678,v1_team_records,Milwaukee Brewers,Chicago Cubs,28,18,29,20,0.493,0.46,0.033,56.9,-118.3
-2026-05-20,823057,v1_team_records,Pittsburgh Pirates,St. Louis Cardinals,24,24,28,19,0.544,0.374,0.17,10.9,-116.4
-2026-05-20,823299,v1_team_records,Los Angeles Dodgers,San Diego Padres,30,19,29,19,0.497,0.374,0.122,-186.0,157.0
-2026-05-20,824032,v1_team_records,Athletics,Los Angeles Angels,24,24,17,32,0.41,0.468,-0.058,-123.4,106.1
-2026-05-21,824274,v1_team_records,Cleveland Guardians,Detroit Tigers,29,22,20,30,0.413,0.377,0.036,11.8,-117.7
-2026-05-21,823056,v1_team_records,Pittsburgh Pirates,St. Louis Cardinals,25,24,28,20,0.533,0.458,0.075,-128.4,110.1
-2026-05-21,822733,v1_team_records,New York Mets,Washington Nationals,21,28,25,25,0.538,0.491,0.047,-112.0,-104.2
-2026-05-21,823864,v1_team_records,Atlanta Braves,Miami Marlins,34,16,22,28,0.393,0.437,-0.044,-140.7,120.1
-2026-05-21,823545,v1_team_records,Toronto Blue Jays,New York Yankees,22,27,30,20,0.572,0.579,-0.007,128.8,-150.6
-2026-05-21,824031,v1_team_records,Athletics,Los Angeles Angels,25,24,17,33,0.4,0.499,-0.099,-108.3,-107.8
-2026-05-21,825083,v1_team_records,Colorado Rockies,Arizona Diamondbacks,19,31,25,23,0.578,0.645,-0.067,170.9,-204.1
-2026-05-22,824679,v1_team_records,Houston Astros,Chicago Cubs,20,31,29,21,0.597,0.563,0.034,120.1,-140.7
-2026-05-22,824518,v1_team_records,St. Louis Cardinals,Cincinnati Reds,28,21,26,24,0.477,0.498,-0.021,81.3,-120.8
-2026-05-22,823461,v1_team_records,Cleveland Guardians,Philadelphia Phillies,30,22,25,25,0.464,0.626,-0.162,157.1,-186.0
-2026-05-22,823546,v1_team_records,Tampa Bay Rays,New York Yankees,33,15,30,21,0.461,0.584,-0.123,131.4,-154.2
-2026-05-22,822816,v1_team_records,Pittsburgh Pirates,Toronto Blue Jays,26,24,23,27,0.469,0.599,-0.13,140.3,-164.6
-2026-05-22,824761,v1_team_records,Minnesota Twins,Boston Red Sox,23,27,22,27,0.494,0.581,-0.087,129.7,-152.3
-2026-05-22,823863,v1_team_records,New York Mets,Miami Marlins,22,28,22,29,0.495,0.662,-0.168,-37.0,-112.7
-2026-05-22,824842,v1_team_records,Detroit Tigers,Baltimore Orioles,20,31,21,29,0.517,0.559,-0.042,118.6,-138.4
-2026-05-22,824922,v1_team_records,Washington Nationals,Atlanta Braves,25,26,35,16,0.583,0.665,-0.082,188.0,-223.4
-2026-05-22,824110,v1_team_records,Seattle Mariners,Kansas City Royals,24,27,20,30,0.459,0.623,-0.163,-118.0,12.0
-2026-05-22,823788,v1_team_records,Los Angeles Dodgers,Milwaukee Brewers,31,19,29,18,0.499,0.497,0.002,-109.3,-106.7
-2026-05-22,824029,v1_team_records,Texas Rangers,Los Angeles Angels,24,25,17,34,0.405,0.396,0.009,-168.0,143.2
-2026-05-22,825082,v1_team_records,Colorado Rockies,Arizona Diamondbacks,19,32,26,23,0.587,0.655,-0.068,179.2,-213.3
-2026-05-22,823298,v1_team_records,Athletics,San Diego Padres,26,24,29,20,0.532,0.544,-0.011,111.0,-129.9
-2026-05-22,823223,v1_team_records,Chicago White Sox,San Francisco Giants,25,24,20,30,0.44,0.414,0.025,-112.0,-59.7
+date,game_pk,model_version,away_team,home_team,away_wins,away_losses,home_wins,home_losses,model_home_prob,market_home_prob,edge,away_ml_avg,home_ml_avg,away_ml_best,home_ml_best
+2026-05-14,823383,v1_team_records,Colorado Rockies,Pittsburgh Pirates,17,27,24,20,0.585,,,,,,
+2026-05-14,824517,v1_team_records,Washington Nationals,Cincinnati Reds,21,23,23,21,0.523,,,,,,
+2026-05-14,823630,v1_team_records,Detroit Tigers,New York Mets,19,25,18,25,0.492,,,,,,
+2026-05-14,823709,v1_team_records,Miami Marlins,Minnesota Twins,20,24,20,24,0.5,,,,,,
+2026-05-14,823789,v1_team_records,San Diego Padres,Milwaukee Brewers,25,18,24,17,0.502,,,,,,
+2026-05-14,824196,v1_team_records,Seattle Mariners,Houston Astros,22,23,17,28,0.436,,,,,,
+2026-05-14,825008,v1_team_records,St. Louis Cardinals,Athletics,25,18,22,21,0.468,,,,,,
+2026-05-14,824762,v1_team_records,Philadelphia Phillies,Boston Red Sox,20,23,18,24,0.48,0.556,-0.077,-76.7,-119.5,110.0,-105.0
+2026-05-14,824926,v1_team_records,Chicago Cubs,Atlanta Braves,27,16,30,13,0.526,0.683,-0.156,196.7,-263.5,225.0,-234.0
+2026-05-14,824602,v1_team_records,Kansas City Royals,Chicago White Sox,19,24,21,21,0.531,0.359,0.172,-215.5,161.8,-200.0,170.0
+2026-05-14,823950,v1_team_records,San Francisco Giants,Los Angeles Dodgers,18,25,25,18,0.581,0.614,-0.033,149.2,-176.1,156.0,-172.0
+2026-05-16,824278,v1_team_records,Toronto Blue Jays,Detroit Tigers,19,25,20,25,0.507,0.511,-0.004,-103.6,-113.1,-101.0,-106.0
+2026-05-16,823060,v1_team_records,Kansas City Royals,St. Louis Cardinals,19,26,26,18,0.583,0.458,0.126,56.2,-117.7,105.0,-115.0
+2026-05-16,824359,v1_team_records,Arizona Diamondbacks,Colorado Rockies,21,22,17,28,0.436,0.436,0.0,-141.2,120.9,-136.0,123.0
+2026-05-16,822737,v1_team_records,Baltimore Orioles,Washington Nationals,20,25,22,23,0.524,0.502,0.022,-107.3,-108.9,-103.0,-105.0
+2026-05-16,823382,v1_team_records,Philadelphia Phillies,Pittsburgh Pirates,22,23,24,21,0.522,0.396,0.126,-168.6,143.1,-163.0,147.0
+2026-05-16,822981,v1_team_records,Miami Marlins,Tampa Bay Rays,20,25,29,14,0.603,0.564,0.039,121.0,-141.4,124.0,-137.0
+2026-05-16,824435,v1_team_records,Cincinnati Reds,Cleveland Guardians,24,21,24,22,0.495,0.59,-0.096,134.7,-159.3,138.0,-150.0
+2026-05-16,824193,v1_team_records,Texas Rangers,Houston Astros,21,23,18,28,0.45,0.428,0.022,-145.9,124.9,-141.0,128.0
+2026-05-16,824600,v1_team_records,Chicago Cubs,Chicago White Sox,29,16,22,22,0.437,0.655,-0.218,-38.4,-111.2,100.0,-107.0
+2026-05-16,823706,v1_team_records,Milwaukee Brewers,Minnesota Twins,25,17,20,25,0.427,0.468,-0.041,-123.3,106.0,-120.0,109.0
+2026-05-16,823139,v1_team_records,San Diego Padres,Seattle Mariners,26,18,22,24,0.447,0.606,-0.159,144.6,-170.2,154.0,-166.0
+2026-05-16,824924,v1_team_records,Boston Red Sox,Atlanta Braves,18,26,31,14,0.628,0.536,0.091,107.8,-125.4,115.0,-120.0
+2026-05-16,823627,v1_team_records,New York Yankees,New York Mets,28,17,18,26,0.397,0.468,-0.071,-123.7,105.8,-118.0,110.0
+2026-05-16,824038,v1_team_records,Los Angeles Dodgers,Los Angeles Angels,27,18,16,29,0.372,0.443,-0.071,-136.9,117.2,-135.0,123.0
+2026-05-16,825007,v1_team_records,San Francisco Giants,Athletics,18,27,23,21,0.567,0.55,0.017,114.0,-132.9,118.0,-127.0
+2026-05-15,823384,v1_team_records,Philadelphia Phillies,Pittsburgh Pirates,21,23,24,20,0.533,0.55,-0.017,114.1,-133.3,118.0,-130.0
+2026-05-15,822739,v1_team_records,Baltimore Orioles,Washington Nationals,20,24,21,23,0.512,0.443,0.069,-137.0,117.4,-133.0,121.0
+2026-05-15,824280,v1_team_records,Toronto Blue Jays,Detroit Tigers,19,24,19,25,0.494,0.46,0.034,-127.3,109.2,-122.0,113.0
+2026-05-15,824439,v1_team_records,Cincinnati Reds,Cleveland Guardians,23,21,24,21,0.505,0.557,-0.053,117.6,-137.4,123.0,-134.0
+2026-05-15,822983,v1_team_records,Miami Marlins,Tampa Bay Rays,20,24,28,14,0.594,0.424,0.17,35.4,-119.2,108.0,-115.0
+2026-05-15,823707,v1_team_records,Milwaukee Brewers,Minnesota Twins,24,17,20,24,0.438,0.503,-0.065,-108.5,-110.8,-104.0,-109.0
+2026-05-15,824925,v1_team_records,Boston Red Sox,Atlanta Braves,18,25,30,14,0.619,0.58,0.04,129.2,-151.4,133.0,-145.0
+2026-05-15,823629,v1_team_records,New York Yankees,New York Mets,27,17,18,25,0.406,0.417,-0.012,-153.1,130.8,-148.0,134.0
+2026-05-15,824601,v1_team_records,Chicago Cubs,Chicago White Sox,28,16,22,21,0.446,0.426,0.02,-147.4,125.8,-142.0,129.0
+2026-05-15,824194,v1_team_records,Texas Rangers,Houston Astros,21,22,17,28,0.436,0.499,-0.063,-108.4,-107.7,-105.0,-105.0
+2026-05-15,823061,v1_team_records,Kansas City Royals,St. Louis Cardinals,19,25,25,18,0.574,0.507,0.067,-105.0,-111.2,-103.0,-107.0
+2026-05-15,824360,v1_team_records,Arizona Diamondbacks,Colorado Rockies,20,22,17,27,0.448,0.47,-0.022,-122.2,104.9,-119.0,109.0
+2026-05-15,824037,v1_team_records,Los Angeles Dodgers,Los Angeles Angels,26,18,16,28,0.381,0.324,0.057,-235.9,197.0,-227.0,203.0
+2026-05-15,823140,v1_team_records,San Diego Padres,Seattle Mariners,25,18,22,23,0.457,0.553,-0.096,115.7,-134.9,118.0,-130.0
+2026-05-15,825009,v1_team_records,San Francisco Giants,Athletics,18,26,22,21,0.556,0.55,0.006,114.2,-133.2,119.0,-127.0
+2026-05-17,822982,v1_team_records,Miami Marlins,Tampa Bay Rays,21,26,30,15,0.599,,,,,,
+2026-05-17,822738,v1_team_records,Baltimore Orioles,Washington Nationals,20,26,23,23,0.535,0.091,0.444,-2646.6,942.0,-2000.0,1060.0
+2026-05-17,823381,v1_team_records,Philadelphia Phillies,Pittsburgh Pirates,23,23,24,22,0.511,0.068,0.443,-6700.0,1299.0,-5000.0,1400.0
+2026-05-17,824923,v1_team_records,Boston Red Sox,Atlanta Braves,19,26,31,15,0.615,0.971,-0.356,3300.0,-10000.0,3300.0,-10000.0
+2026-05-17,824436,v1_team_records,Cincinnati Reds,Cleveland Guardians,24,22,25,22,0.505,0.953,-0.448,1950.0,-10000.0,2200.0,-10000.0
+2026-05-17,824279,v1_team_records,Toronto Blue Jays,Detroit Tigers,20,25,20,26,0.495,0.065,0.43,-7500.0,1358.8,-5000.0,1700.0
+2026-05-17,823628,v1_team_records,New York Yankees,New York Mets,28,18,19,26,0.409,0.205,0.205,-604.3,353.0,-324.0,750.0
+2026-05-17,824192,v1_team_records,Texas Rangers,Houston Astros,21,24,19,28,0.464,0.179,0.285,-698.3,424.8,-556.0,500.0
+2026-05-17,824599,v1_team_records,Chicago Cubs,Chicago White Sox,29,17,23,22,0.448,0.232,0.216,-446.5,305.3,-385.0,337.0
+2026-05-17,823708,v1_team_records,Milwaukee Brewers,Minnesota Twins,26,17,20,26,0.418,0.601,-0.182,135.3,-177.3,170.0,-142.0
+2026-05-17,823058,v1_team_records,Kansas City Royals,St. Louis Cardinals,19,27,27,18,0.592,0.252,0.34,-392.0,271.7,-222.0,333.0
+2026-05-17,824358,v1_team_records,Arizona Diamondbacks,Colorado Rockies,21,23,18,28,0.45,0.43,0.02,-145.0,123.6,-141.0,129.0
+2026-05-17,825006,v1_team_records,San Francisco Giants,Athletics,19,27,23,22,0.553,0.573,-0.02,125.6,-146.7,130.0,-142.0
+2026-05-17,824034,v1_team_records,Los Angeles Dodgers,Los Angeles Angels,28,18,16,30,0.364,0.431,-0.068,-144.3,123.3,-139.0,126.0
+2026-05-17,823138,v1_team_records,San Diego Padres,Seattle Mariners,27,18,22,25,0.438,0.594,-0.156,137.3,-161.2,139.0,-154.0
+2026-05-19,823865,v1_team_records,Atlanta Braves,Miami Marlins,32,16,22,26,0.407,0.435,-0.028,-141.9,121.2,-138.0,125.0
+2026-05-19,824276,v1_team_records,Cleveland Guardians,Detroit Tigers,27,22,20,28,0.431,0.467,-0.037,-123.6,106.2,-119.0,109.0
+2026-05-19,822979,v1_team_records,Baltimore Orioles,Tampa Bay Rays,21,27,31,15,0.606,0.42,0.186,34.0,-117.6,102.0,-112.0
+2026-05-19,823464,v1_team_records,Cincinnati Reds,Philadelphia Phillies,24,24,25,23,0.51,0.567,-0.056,122.2,-142.9,126.0,-139.0
+2026-05-19,822736,v1_team_records,New York Mets,Washington Nationals,21,26,23,25,0.517,0.431,0.086,-144.7,123.2,-135.0,130.0
+2026-05-19,823548,v1_team_records,Toronto Blue Jays,New York Yankees,21,26,29,19,0.575,0.555,0.02,116.2,-135.7,120.0,-131.0
+2026-05-19,824112,v1_team_records,Boston Red Sox,Kansas City Royals,20,27,20,28,0.495,0.457,0.038,-129.3,110.6,-124.0,114.0
+2026-05-19,823704,v1_team_records,Houston Astros,Minnesota Twins,19,30,22,26,0.541,0.557,-0.015,117.3,-137.1,120.0,-128.0
+2026-05-19,824677,v1_team_records,Milwaukee Brewers,Chicago Cubs,27,18,29,19,0.502,0.169,0.333,-115.2,-12.2,-111.0,101.0
+2026-05-19,823059,v1_team_records,Pittsburgh Pirates,St. Louis Cardinals,24,23,27,19,0.535,0.663,-0.129,-36.8,-112.8,102.0,-105.0
+2026-05-19,824356,v1_team_records,Texas Rangers,Colorado Rockies,22,25,19,29,0.458,0.467,-0.009,-124.0,106.2,-119.0,109.0
+2026-05-19,824033,v1_team_records,Athletics,Los Angeles Angels,23,24,17,31,0.42,0.543,-0.123,110.7,-129.1,113.0,-124.0
+2026-05-19,823302,v1_team_records,Los Angeles Dodgers,San Diego Padres,29,19,29,18,0.505,0.412,0.094,-156.9,134.0,-150.0,136.0
+2026-05-19,825086,v1_team_records,San Francisco Giants,Arizona Diamondbacks,20,28,23,23,0.545,0.498,0.048,81.0,-120.9,106.0,-116.0
+2026-05-19,823136,v1_team_records,Chicago White Sox,Seattle Mariners,24,23,23,26,0.479,0.576,-0.097,126.9,-148.6,131.0,-145.0
+2026-05-20,823462,v1_team_records,Cincinnati Reds,Philadelphia Phillies,25,24,25,24,0.5,0.583,-0.083,131.1,-153.1,135.0,-147.0
+2026-05-20,822977,v1_team_records,Baltimore Orioles,Tampa Bay Rays,21,28,32,15,0.614,0.462,0.152,57.7,-119.3,106.0,-113.0
+2026-05-20,823703,v1_team_records,Houston Astros,Minnesota Twins,20,30,22,27,0.529,0.575,-0.046,126.3,-148.0,131.0,-145.0
+2026-05-20,824355,v1_team_records,Texas Rangers,Colorado Rockies,23,25,19,30,0.448,0.468,-0.02,-123.4,106.0,-120.0,109.0
+2026-05-20,825084,v1_team_records,San Francisco Giants,Arizona Diamondbacks,20,29,24,23,0.556,0.548,0.008,113.0,-132.1,118.0,-127.0
+2026-05-20,823134,v1_team_records,Chicago White Sox,Seattle Mariners,25,23,23,27,0.469,0.574,-0.105,126.3,-147.2,131.0,-143.0
+2026-05-20,824273,v1_team_records,Cleveland Guardians,Detroit Tigers,28,22,20,29,0.421,0.473,-0.052,-120.4,103.6,-117.0,107.0
+2026-05-20,823866,v1_team_records,Atlanta Braves,Miami Marlins,33,16,22,27,0.4,0.368,0.033,-191.6,161.9,-187.0,169.0
+2026-05-20,822735,v1_team_records,New York Mets,Washington Nationals,21,27,24,25,0.528,0.463,0.065,-125.9,108.0,-122.0,112.0
+2026-05-20,823547,v1_team_records,Toronto Blue Jays,New York Yankees,21,27,30,19,0.583,0.61,-0.027,147.0,-173.2,152.0,-168.0
+2026-05-20,824111,v1_team_records,Boston Red Sox,Kansas City Royals,21,27,20,29,0.482,0.522,-0.04,101.8,-118.2,103.0,-113.0
+2026-05-20,824678,v1_team_records,Milwaukee Brewers,Chicago Cubs,28,18,29,20,0.493,0.46,0.033,56.9,-118.3,105.0,-115.0
+2026-05-20,823057,v1_team_records,Pittsburgh Pirates,St. Louis Cardinals,24,24,28,19,0.544,0.374,0.17,10.9,-116.4,102.0,-112.0
+2026-05-20,823299,v1_team_records,Los Angeles Dodgers,San Diego Padres,30,19,29,19,0.497,0.374,0.122,-186.0,157.0,-180.0,162.0
+2026-05-20,824032,v1_team_records,Athletics,Los Angeles Angels,24,24,17,32,0.41,0.468,-0.058,-123.4,106.1,-118.0,108.0
+2026-05-21,824274,v1_team_records,Cleveland Guardians,Detroit Tigers,29,22,20,30,0.413,0.377,0.036,11.8,-117.7,105.0,-115.0
+2026-05-21,823056,v1_team_records,Pittsburgh Pirates,St. Louis Cardinals,25,24,28,20,0.533,0.458,0.075,-128.4,110.1,-121.0,114.0
+2026-05-21,822733,v1_team_records,New York Mets,Washington Nationals,21,28,25,25,0.538,0.491,0.047,-112.0,-104.2,-108.0,-102.0
+2026-05-21,823864,v1_team_records,Atlanta Braves,Miami Marlins,34,16,22,28,0.393,0.437,-0.044,-140.7,120.1,-135.0,125.0
+2026-05-21,823545,v1_team_records,Toronto Blue Jays,New York Yankees,22,27,30,20,0.572,0.579,-0.007,128.8,-150.6,132.0,-145.0
+2026-05-21,824031,v1_team_records,Athletics,Los Angeles Angels,25,24,17,33,0.4,0.499,-0.099,-108.3,-107.8,-105.0,-105.0
+2026-05-21,825083,v1_team_records,Colorado Rockies,Arizona Diamondbacks,19,31,25,23,0.578,0.645,-0.067,170.9,-204.1,176.0,-191.0
+2026-05-22,824679,v1_team_records,Houston Astros,Chicago Cubs,20,31,29,21,0.597,0.563,0.034,120.1,-140.7,123.0,-132.0
+2026-05-22,824518,v1_team_records,St. Louis Cardinals,Cincinnati Reds,28,21,26,24,0.477,0.498,-0.021,81.3,-120.8,108.0,-115.0
+2026-05-22,823461,v1_team_records,Cleveland Guardians,Philadelphia Phillies,30,22,25,25,0.464,0.626,-0.162,157.1,-186.0,160.0,-177.0
+2026-05-22,823546,v1_team_records,Tampa Bay Rays,New York Yankees,33,15,30,21,0.461,0.584,-0.123,131.4,-154.2,135.0,-147.0
+2026-05-22,822816,v1_team_records,Pittsburgh Pirates,Toronto Blue Jays,26,24,23,27,0.469,0.599,-0.13,140.3,-164.6,145.0,-160.0
+2026-05-22,824761,v1_team_records,Minnesota Twins,Boston Red Sox,23,27,22,27,0.494,0.581,-0.087,129.7,-152.3,133.0,-147.0
+2026-05-22,823863,v1_team_records,New York Mets,Miami Marlins,22,28,22,29,0.495,0.662,-0.168,-37.0,-112.7,100.0,-110.0
+2026-05-22,824842,v1_team_records,Detroit Tigers,Baltimore Orioles,20,31,21,29,0.517,0.559,-0.042,118.6,-138.4,121.0,-133.0
+2026-05-22,824922,v1_team_records,Washington Nationals,Atlanta Braves,25,26,35,16,0.583,0.665,-0.082,188.0,-223.4,200.0,-211.0
+2026-05-22,824110,v1_team_records,Seattle Mariners,Kansas City Royals,24,27,20,30,0.459,0.623,-0.163,-118.0,12.0,-113.0,108.0
+2026-05-22,823788,v1_team_records,Los Angeles Dodgers,Milwaukee Brewers,31,19,29,18,0.499,0.497,0.002,-109.3,-106.7,-106.0,-104.0
+2026-05-22,824029,v1_team_records,Texas Rangers,Los Angeles Angels,24,25,17,34,0.405,0.396,0.009,-168.0,143.2,-164.0,149.0
+2026-05-22,825082,v1_team_records,Colorado Rockies,Arizona Diamondbacks,19,32,26,23,0.587,0.655,-0.068,179.2,-213.3,187.0,-208.0
+2026-05-22,823298,v1_team_records,Athletics,San Diego Padres,26,24,29,20,0.532,0.544,-0.011,111.0,-129.9,114.0,-125.0
+2026-05-22,823223,v1_team_records,Chicago White Sox,San Francisco Giants,25,24,20,30,0.44,0.414,0.025,-112.0,-59.7,-109.0,100.0
+2026-05-23,824518,v1_team_records,St. Louis Cardinals,Cincinnati Reds,28,21,26,24,0.477,0.496,-0.019,-109.9,-106.3,-108.0,-101.0
+2026-05-23,824516,v1_team_records,St. Louis Cardinals,Cincinnati Reds,28,21,26,24,0.477,0.496,-0.019,-109.9,-106.3,-108.0,-101.0
+2026-05-23,824674,v1_team_records,Houston Astros,Chicago Cubs,21,31,29,22,0.585,0.576,0.008,127.3,-149.2,130.0,-142.0
+2026-05-23,822814,v1_team_records,Pittsburgh Pirates,Toronto Blue Jays,26,25,24,27,0.48,0.419,0.061,-151.9,130.2,-143.0,135.0
+2026-05-23,824840,v1_team_records,Detroit Tigers,Baltimore Orioles,20,32,22,29,0.528,0.827,-0.299,-12.6,-115.2,103.0,-112.0
+2026-05-23,823458,v1_team_records,Cleveland Guardians,Philadelphia Phillies,31,22,25,26,0.456,0.627,-0.171,157.9,-186.9,162.0,-180.0
+2026-05-23,823222,v1_team_records,Chicago White Sox,San Francisco Giants,26,24,20,31,0.43,0.525,-0.095,102.7,-119.8,104.0,-114.0
+2026-05-23,824109,v1_team_records,Seattle Mariners,Kansas City Royals,25,27,20,31,0.449,0.453,-0.004,-131.9,112.4,-125.0,120.0
+2026-05-23,824760,v1_team_records,Minnesota Twins,Boston Red Sox,24,27,22,28,0.483,0.459,0.024,56.9,-118.0,105.0,-115.0
+2026-05-23,824920,v1_team_records,Washington Nationals,Atlanta Braves,25,27,36,16,0.59,0.609,-0.019,145.9,-172.6,150.0,-162.0
+2026-05-23,823862,v1_team_records,New York Mets,Miami Marlins,22,29,23,29,0.506,0.667,-0.161,-36.1,-113.6,101.0,-107.0
+2026-05-23,823787,v1_team_records,Los Angeles Dodgers,Milwaukee Brewers,31,20,30,18,0.507,0.474,0.033,-120.1,103.1,-116.0,106.0
+2026-05-23,823300,v1_team_records,Athletics,San Diego Padres,26,25,30,20,0.541,0.493,0.047,-111.2,-105.0,-108.0,-101.0
+2026-05-23,824030,v1_team_records,Texas Rangers,Los Angeles Angels,24,26,18,34,0.419,0.44,-0.021,-138.8,118.7,-136.0,123.0
+2026-05-23,825080,v1_team_records,Colorado Rockies,Arizona Diamondbacks,20,32,26,24,0.575,0.62,-0.045,153.0,-180.9,158.0,-174.0
+2026-05-23,823543,v1_team_records,Tampa Bay Rays,New York Yankees,34,15,30,22,0.454,,,,,,
