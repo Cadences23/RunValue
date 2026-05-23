@@ -1,0 +1,4 @@
+date_evaluated,model_version,n_games,accuracy,log_loss,brier
+2026-05-20,v1_team_records,71,0.6197,0.6634,0.2353
+2026-05-21,v1_team_records,86,0.6395,0.6601,0.2336
+2026-05-22,v1_team_records,93,0.6344,0.6585,0.2329

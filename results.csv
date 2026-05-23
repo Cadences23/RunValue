@@ -1,0 +1,108 @@
+date,game_pk,away_team,home_team,away_score,home_score,home_won,winner,status
+2026-05-15,823384,Philadelphia Phillies,Pittsburgh Pirates,11,9,False,Philadelphia Phillies,Final
+2026-05-15,822739,Baltimore Orioles,Washington Nationals,2,3,True,Washington Nationals,Final
+2026-05-15,824280,Toronto Blue Jays,Detroit Tigers,2,3,True,Detroit Tigers,Final
+2026-05-15,824439,Cincinnati Reds,Cleveland Guardians,7,6,False,Cincinnati Reds,Final
+2026-05-15,822983,Miami Marlins,Tampa Bay Rays,2,7,True,Tampa Bay Rays,Final
+2026-05-15,823707,Milwaukee Brewers,Minnesota Twins,3,2,False,Milwaukee Brewers,Final
+2026-05-15,824925,Boston Red Sox,Atlanta Braves,2,3,True,Atlanta Braves,Final
+2026-05-15,823629,New York Yankees,New York Mets,5,2,False,New York Yankees,Final
+2026-05-15,824601,Chicago Cubs,Chicago White Sox,10,5,False,Chicago Cubs,Final
+2026-05-15,824194,Texas Rangers,Houston Astros,0,2,True,Houston Astros,Final
+2026-05-15,823061,Kansas City Royals,St. Louis Cardinals,4,5,True,St. Louis Cardinals,Final
+2026-05-15,824360,Arizona Diamondbacks,Colorado Rockies,9,1,False,Arizona Diamondbacks,Final
+2026-05-15,824037,Los Angeles Dodgers,Los Angeles Angels,6,0,False,Los Angeles Dodgers,Final
+2026-05-15,823140,San Diego Padres,Seattle Mariners,2,0,False,San Diego Padres,Final
+2026-05-15,825009,San Francisco Giants,Athletics,2,5,True,Athletics,Final
+2026-05-14,823383,Colorado Rockies,Pittsburgh Pirates,2,7,True,Pittsburgh Pirates,Final
+2026-05-14,824517,Washington Nationals,Cincinnati Reds,1,15,True,Cincinnati Reds,Final
+2026-05-14,823630,Detroit Tigers,New York Mets,4,9,True,New York Mets,Final
+2026-05-14,823709,Miami Marlins,Minnesota Twins,1,9,True,Minnesota Twins,Final
+2026-05-14,823789,San Diego Padres,Milwaukee Brewers,1,7,True,Milwaukee Brewers,Final
+2026-05-14,824196,Seattle Mariners,Houston Astros,8,3,False,Seattle Mariners,Final
+2026-05-14,825008,St. Louis Cardinals,Athletics,5,4,False,St. Louis Cardinals,Final
+2026-05-14,824762,Philadelphia Phillies,Boston Red Sox,3,1,False,Philadelphia Phillies,Final
+2026-05-14,824926,Chicago Cubs,Atlanta Braves,2,0,False,Chicago Cubs,Final
+2026-05-14,824602,Kansas City Royals,Chicago White Sox,2,6,True,Chicago White Sox,Final
+2026-05-14,823950,San Francisco Giants,Los Angeles Dodgers,2,5,True,Los Angeles Dodgers,Final
+2026-05-16,824278,Toronto Blue Jays,Detroit Tigers,2,1,False,Toronto Blue Jays,Final
+2026-05-16,823060,Kansas City Royals,St. Louis Cardinals,2,4,True,St. Louis Cardinals,Final
+2026-05-16,824359,Arizona Diamondbacks,Colorado Rockies,2,4,True,Colorado Rockies,Final
+2026-05-16,822737,Baltimore Orioles,Washington Nationals,3,13,True,Washington Nationals,Final
+2026-05-16,823382,Philadelphia Phillies,Pittsburgh Pirates,6,0,False,Philadelphia Phillies,Final
+2026-05-16,822981,Miami Marlins,Tampa Bay Rays,10,5,False,Miami Marlins,Final
+2026-05-16,824435,Cincinnati Reds,Cleveland Guardians,4,7,True,Cleveland Guardians,Final
+2026-05-16,824193,Texas Rangers,Houston Astros,1,4,True,Houston Astros,Final
+2026-05-16,824600,Chicago Cubs,Chicago White Sox,3,8,True,Chicago White Sox,Final
+2026-05-16,823706,Milwaukee Brewers,Minnesota Twins,2,1,False,Milwaukee Brewers,Final
+2026-05-16,823139,San Diego Padres,Seattle Mariners,7,4,False,San Diego Padres,Final
+2026-05-16,824924,Boston Red Sox,Atlanta Braves,3,2,False,Boston Red Sox,Final
+2026-05-16,823627,New York Yankees,New York Mets,3,6,True,New York Mets,Final
+2026-05-16,824038,Los Angeles Dodgers,Los Angeles Angels,15,2,False,Los Angeles Dodgers,Final
+2026-05-16,825007,San Francisco Giants,Athletics,6,4,False,San Francisco Giants,Final
+2026-05-17,822982,Miami Marlins,Tampa Bay Rays,3,6,True,Tampa Bay Rays,Final
+2026-05-17,822738,Baltimore Orioles,Washington Nationals,7,3,False,Baltimore Orioles,Final
+2026-05-17,823381,Philadelphia Phillies,Pittsburgh Pirates,6,0,False,Philadelphia Phillies,Final
+2026-05-17,824923,Boston Red Sox,Atlanta Braves,1,8,True,Atlanta Braves,Final
+2026-05-17,824436,Cincinnati Reds,Cleveland Guardians,3,10,True,Cleveland Guardians,Final
+2026-05-17,824279,Toronto Blue Jays,Detroit Tigers,4,1,False,Toronto Blue Jays,Final
+2026-05-17,823628,New York Yankees,New York Mets,6,7,True,New York Mets,Final
+2026-05-17,824192,Texas Rangers,Houston Astros,8,0,False,Texas Rangers,Final
+2026-05-17,824599,Chicago Cubs,Chicago White Sox,8,9,True,Chicago White Sox,Final
+2026-05-17,823708,Milwaukee Brewers,Minnesota Twins,4,5,True,Minnesota Twins,Final
+2026-05-17,823058,Kansas City Royals,St. Louis Cardinals,2,0,False,Kansas City Royals,Final
+2026-05-17,824358,Arizona Diamondbacks,Colorado Rockies,8,6,False,Arizona Diamondbacks,Final
+2026-05-17,825006,San Francisco Giants,Athletics,10,1,False,San Francisco Giants,Final
+2026-05-17,824034,Los Angeles Dodgers,Los Angeles Angels,10,1,False,Los Angeles Dodgers,Final
+2026-05-17,823138,San Diego Padres,Seattle Mariners,8,3,False,San Diego Padres,Final
+2026-05-18,824277,Cleveland Guardians,Detroit Tigers,8,2,False,Cleveland Guardians,Final
+2026-05-18,822980,Baltimore Orioles,Tampa Bay Rays,6,16,True,Tampa Bay Rays,Final
+2026-05-18,823465,Cincinnati Reds,Philadelphia Phillies,4,5,True,Philadelphia Phillies,Final
+2026-05-18,823867,Atlanta Braves,Miami Marlins,0,12,True,Miami Marlins,Final
+2026-05-18,822734,New York Mets,Washington Nationals,16,7,False,New York Mets,Final
+2026-05-18,823549,Toronto Blue Jays,New York Yankees,6,7,True,New York Yankees,Final
+2026-05-18,824114,Boston Red Sox,Kansas City Royals,3,1,False,Boston Red Sox,Final
+2026-05-18,823705,Houston Astros,Minnesota Twins,3,6,True,Minnesota Twins,Final
+2026-05-18,824680,Milwaukee Brewers,Chicago Cubs,9,3,False,Milwaukee Brewers,Final
+2026-05-18,824357,Texas Rangers,Colorado Rockies,6,7,True,Colorado Rockies,Final
+2026-05-18,824035,Athletics,Los Angeles Angels,1,2,True,Los Angeles Angels,Final
+2026-05-18,823301,Los Angeles Dodgers,San Diego Padres,0,1,True,San Diego Padres,Final
+2026-05-18,825087,San Francisco Giants,Arizona Diamondbacks,2,12,True,Arizona Diamondbacks,Final
+2026-05-18,823137,Chicago White Sox,Seattle Mariners,1,6,True,Seattle Mariners,Final
+2026-05-19,823865,Atlanta Braves,Miami Marlins,8,4,False,Atlanta Braves,Final
+2026-05-19,824276,Cleveland Guardians,Detroit Tigers,4,3,False,Cleveland Guardians,Final
+2026-05-19,822979,Baltimore Orioles,Tampa Bay Rays,1,4,True,Tampa Bay Rays,Final
+2026-05-19,823464,Cincinnati Reds,Philadelphia Phillies,4,1,False,Cincinnati Reds,Final
+2026-05-19,822736,New York Mets,Washington Nationals,6,9,True,Washington Nationals,Final
+2026-05-19,823548,Toronto Blue Jays,New York Yankees,4,5,True,New York Yankees,Final
+2026-05-19,824112,Boston Red Sox,Kansas City Royals,7,1,False,Boston Red Sox,Final
+2026-05-19,823704,Houston Astros,Minnesota Twins,2,1,False,Houston Astros,Final
+2026-05-19,824677,Milwaukee Brewers,Chicago Cubs,5,2,False,Milwaukee Brewers,Final
+2026-05-19,823059,Pittsburgh Pirates,St. Louis Cardinals,6,9,True,St. Louis Cardinals,Final
+2026-05-19,824356,Texas Rangers,Colorado Rockies,10,0,False,Texas Rangers,Final
+2026-05-19,824033,Athletics,Los Angeles Angels,14,6,False,Athletics,Final
+2026-05-19,823302,Los Angeles Dodgers,San Diego Padres,5,4,False,Los Angeles Dodgers,Final
+2026-05-19,825086,San Francisco Giants,Arizona Diamondbacks,3,5,True,Arizona Diamondbacks,Final
+2026-05-19,823136,Chicago White Sox,Seattle Mariners,2,1,False,Chicago White Sox,Final
+2026-05-20,823462,Cincinnati Reds,Philadelphia Phillies,9,4,False,Cincinnati Reds,Final
+2026-05-20,822977,Baltimore Orioles,Tampa Bay Rays,3,5,True,Tampa Bay Rays,Final
+2026-05-20,823703,Houston Astros,Minnesota Twins,1,4,True,Minnesota Twins,Final
+2026-05-20,824355,Texas Rangers,Colorado Rockies,5,4,False,Texas Rangers,Final
+2026-05-20,825084,San Francisco Giants,Arizona Diamondbacks,3,6,True,Arizona Diamondbacks,Final
+2026-05-20,823134,Chicago White Sox,Seattle Mariners,4,5,True,Seattle Mariners,Final
+2026-05-20,824273,Cleveland Guardians,Detroit Tigers,3,2,False,Cleveland Guardians,Final
+2026-05-20,823866,Atlanta Braves,Miami Marlins,9,1,False,Atlanta Braves,Final
+2026-05-20,822735,New York Mets,Washington Nationals,4,8,True,Washington Nationals,Final
+2026-05-20,823547,Toronto Blue Jays,New York Yankees,2,1,False,Toronto Blue Jays,Final
+2026-05-20,824111,Boston Red Sox,Kansas City Royals,4,3,False,Boston Red Sox,Final
+2026-05-20,824678,Milwaukee Brewers,Chicago Cubs,5,0,False,Milwaukee Brewers,Final
+2026-05-20,823057,Pittsburgh Pirates,St. Louis Cardinals,7,0,False,Pittsburgh Pirates,Final
+2026-05-20,823299,Los Angeles Dodgers,San Diego Padres,4,0,False,Los Angeles Dodgers,Final
+2026-05-20,824032,Athletics,Los Angeles Angels,6,5,False,Athletics,Final
+2026-05-21,824274,Cleveland Guardians,Detroit Tigers,3,1,False,Cleveland Guardians,Final
+2026-05-21,823056,Pittsburgh Pirates,St. Louis Cardinals,6,2,False,Pittsburgh Pirates,Final
+2026-05-21,822733,New York Mets,Washington Nationals,2,1,False,New York Mets,Final
+2026-05-21,823864,Atlanta Braves,Miami Marlins,9,3,False,Atlanta Braves,Final
+2026-05-21,823545,Toronto Blue Jays,New York Yankees,2,0,False,Toronto Blue Jays,Final
+2026-05-21,824031,Athletics,Los Angeles Angels,3,2,False,Athletics,Final
+2026-05-21,825083,Colorado Rockies,Arizona Diamondbacks,1,2,True,Arizona Diamondbacks,Final
