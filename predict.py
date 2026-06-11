@@ -25,9 +25,12 @@ def predict_v1(row):
         return 0.5 # edge case: bot team teams 0-0
     return home_pct / total 
 
-# 1. Figure out which date to predict
-if len(sys.argv) > 1:
-    target_date = sys.argv[1]
+# 1. Parse command-line arguments: optional date and optional --force flag
+force = "--force" in sys.argv[1:]
+positional_args = [a for a in sys.argv[1:] if a !="--force"]
+
+if len(positional_args) > 0:
+    target_date = positional_args[0]
 else:
     target_date = date.today().isoformat()
 
@@ -87,9 +90,27 @@ print(predictions_df[[
 log_path = Path("predictions.csv")
 if log_path.exists():
     existing = pd.read_csv(log_path)
+    mask = (existing["date"] == target_date) & (existing["model_version"] == MODEL_VERSION)
+    rows_existing = mask.sum()
+
+    if rows_existing > 0 and not force:
+        print()
+        print("!! REFUSING TO OVERWRITE EXISTING PREDICTIONS")
+        print(f"   {rows_existing} predictions already exist for")
+        print(f"   date={target_date} / model={MODEL_VERSION}")
+        print()
+        print("   Predictions should be made once, at the moment of prediction.")
+        print("   Re-running later would leak future information into the historical record.")
+        print("   If you really need to overwrite, pass --force.")
+        raise SystemExit(0)
+
+    if rows_existing > 0:
+        print(f"--force given: removing {rows_existing} existing rows for {target_date} / {MODEL_VERSION}")
+
+    existing = existing[~mask]
     combined = pd.concat([existing, predictions_df], ignore_index=True)
 else:
-    combined= predictions_df
+    combined = predictions_df
 
 combined.to_csv(log_path, index=False)
 print()
