@@ -74,3 +74,125 @@ date,model_version,game_pk,away_team,home_team,side_bet,moneyline,model_prob,mar
 2026-05-22,v1_team_records,824842,Detroit Tigers,Baltimore Orioles,away,121.0,0.483,0.441,0.042,100,False,-100.0,11575.89
 2026-05-22,v1_team_records,824922,Washington Nationals,Atlanta Braves,away,200.0,0.417,0.335,0.082,100,False,-100.0,11475.89
 2026-05-22,v1_team_records,825082,Colorado Rockies,Arizona Diamondbacks,away,187.0,0.413,0.345,0.068,100,True,187.0,11662.89
+2026-05-23,v1_team_records,822814,Pittsburgh Pirates,Toronto Blue Jays,home,135.0,0.48,0.419,0.061,100,True,135.0,11797.89
+2026-05-23,v1_team_records,823222,Chicago White Sox,San Francisco Giants,away,104.0,0.57,0.475,0.095,100,False,-100.0,11697.89
+2026-05-23,v1_team_records,823300,Athletics,San Diego Padres,home,-101.0,0.541,0.493,0.047,100,True,99.01,11796.9
+2026-05-23,v1_team_records,823458,Cleveland Guardians,Philadelphia Phillies,away,162.0,0.544,0.373,0.171,100,False,-100.0,11696.9
+2026-05-23,v1_team_records,823787,Los Angeles Dodgers,Milwaukee Brewers,home,106.0,0.507,0.474,0.033,100,False,-100.0,11596.9
+2026-05-23,v1_team_records,823862,New York Mets,Miami Marlins,away,101.0,0.494,0.333,0.161,100,False,-100.0,11496.9
+2026-05-23,v1_team_records,824840,Detroit Tigers,Baltimore Orioles,away,103.0,0.472,0.173,0.299,100,True,103.0,11599.9
+2026-05-23,v1_team_records,825080,Colorado Rockies,Arizona Diamondbacks,away,158.0,0.425,0.38,0.045,100,False,-100.0,11499.9
+2026-05-24,v1_team_records,822813,Pittsburgh Pirates,Toronto Blue Jays,away,152.0,0.51,0.39,0.12,100,True,152.0,11651.9
+2026-05-24,v1_team_records,823220,Chicago White Sox,San Francisco Giants,away,106.0,0.558,0.153,0.405,100,False,-100.0,11551.9
+2026-05-24,v1_team_records,823297,Athletics,San Diego Padres,away,151.0,0.451,0.39,0.061,100,True,151.0,11702.9
+2026-05-24,v1_team_records,823459,Cleveland Guardians,Philadelphia Phillies,home,102.0,0.466,0.329,0.137,100,False,-100.0,11602.9
+2026-05-24,v1_team_records,823544,Tampa Bay Rays,New York Yankees,away,120.0,0.546,0.446,0.1,100,False,-100.0,11502.9
+2026-05-24,v1_team_records,823786,Los Angeles Dodgers,Milwaukee Brewers,home,143.0,0.499,0.406,0.093,100,False,-100.0,11402.9
+2026-05-24,v1_team_records,823861,New York Mets,Miami Marlins,away,100.0,0.483,0.342,0.141,100,False,-100.0,11302.9
+2026-05-24,v1_team_records,824028,Texas Rangers,Los Angeles Angels,away,106.0,0.568,0.474,0.094,100,False,-100.0,11202.9
+2026-05-24,v1_team_records,824676,Houston Astros,Chicago Cubs,away,152.0,0.427,0.39,0.036,100,True,152.0,11354.9
+2026-05-24,v1_team_records,824759,Minnesota Twins,Boston Red Sox,away,136.0,0.527,0.417,0.11,100,True,136.0,11490.9
+2026-05-24,v1_team_records,825081,Colorado Rockies,Arizona Diamondbacks,away,175.0,0.416,0.359,0.057,100,False,-100.0,11390.9
+2026-05-25,v1_team_records,822812,Miami Marlins,Toronto Blue Jays,away,149.0,0.495,0.397,0.099,100,True,149.0,11539.9
+2026-05-25,v1_team_records,822899,Houston Astros,Texas Rangers,away,118.0,0.48,0.45,0.03,100,True,118.0,11657.9
+2026-05-25,v1_team_records,823219,Arizona Diamondbacks,San Francisco Giants,away,120.0,0.565,0.444,0.121,100,True,120.0,11777.9
+2026-05-25,v1_team_records,823296,Philadelphia Phillies,San Diego Padres,home,109.0,0.548,0.466,0.083,100,False,-100.0,11677.9
+2026-05-25,v1_team_records,823625,Cincinnati Reds,New York Mets,away,136.0,0.556,0.411,0.144,100,True,136.0,11813.9
+2026-05-25,v1_team_records,823784,St. Louis Cardinals,Milwaukee Brewers,away,194.0,0.487,0.337,0.15,100,False,-100.0,11713.9
+2026-05-25,v1_team_records,823948,Colorado Rockies,Los Angeles Dodgers,away,270.0,0.373,0.267,0.106,100,False,-100.0,11613.9
+2026-05-25,v1_team_records,824107,New York Yankees,Kansas City Royals,away,-119.0,0.585,0.54,0.045,100,True,84.03,11697.93
+2026-05-25,v1_team_records,824437,Washington Nationals,Cleveland Guardians,away,152.0,0.462,0.389,0.073,100,True,152.0,11849.93
+2026-05-25,v1_team_records,824838,Tampa Bay Rays,Baltimore Orioles,away,-118.0,0.61,0.533,0.077,100,False,-100.0,11749.93
+2026-05-25,v1_team_records,825005,Seattle Mariners,Athletics,home,102.0,0.524,0.329,0.195,100,False,-100.0,11649.93
+2026-05-26,v1_team_records,822811,Miami Marlins,Toronto Blue Jays,away,126.0,0.505,0.433,0.073,100,False,-100.0,11549.93
+2026-05-26,v1_team_records,822898,Houston Astros,Texas Rangers,away,118.0,0.49,0.449,0.042,100,False,-100.0,11449.93
+2026-05-26,v1_team_records,823216,Arizona Diamondbacks,San Francisco Giants,away,100.0,0.573,0.465,0.109,100,True,100.0,11549.93
+2026-05-26,v1_team_records,823379,Chicago Cubs,Pittsburgh Pirates,away,118.0,0.509,0.451,0.057,100,False,-100.0,11449.93
+2026-05-26,v1_team_records,823624,Cincinnati Reds,New York Mets,away,-122.0,0.565,0.507,0.058,100,True,81.97,11531.9
+2026-05-26,v1_team_records,823785,St. Louis Cardinals,Milwaukee Brewers,away,163.0,0.479,0.375,0.104,100,False,-100.0,11431.9
+2026-05-26,v1_team_records,823949,Colorado Rockies,Los Angeles Dodgers,away,197.0,0.366,0.329,0.037,100,False,-100.0,11331.9
+2026-05-26,v1_team_records,824106,New York Yankees,Kansas City Royals,home,174.0,0.407,0.358,0.049,100,False,-100.0,11231.9
+2026-05-26,v1_team_records,824275,Los Angeles Angels,Detroit Tigers,away,119.0,0.487,0.45,0.037,100,True,119.0,11350.9
+2026-05-26,v1_team_records,824758,Atlanta Braves,Boston Red Sox,away,-103.0,0.612,0.499,0.113,100,True,97.09,11447.98
+2026-05-26,v1_team_records,824837,Tampa Bay Rays,Baltimore Orioles,away,-109.0,0.6,0.509,0.091,100,False,-100.0,11347.98
+2026-05-26,v1_team_records,825004,Seattle Mariners,Athletics,away,100.0,0.486,0.416,0.07,100,True,100.0,11447.98
+2026-05-27,v1_team_records,822809,Miami Marlins,Toronto Blue Jays,away,130.0,0.495,0.424,0.072,100,False,-100.0,11347.98
+2026-05-27,v1_team_records,822897,Houston Astros,Texas Rangers,away,139.0,0.481,0.407,0.074,100,True,139.0,11486.98
+2026-05-27,v1_team_records,823217,Arizona Diamondbacks,San Francisco Giants,away,-126.0,0.582,0.548,0.033,100,True,79.37,11566.35
+2026-05-27,v1_team_records,823295,Philadelphia Phillies,San Diego Padres,home,139.0,0.53,0.407,0.123,100,False,-100.0,11466.35
+2026-05-27,v1_team_records,823626,Cincinnati Reds,New York Mets,away,106.0,0.573,0.474,0.099,100,False,-100.0,11366.35
+2026-05-27,v1_team_records,823783,St. Louis Cardinals,Milwaukee Brewers,away,134.0,0.471,0.421,0.05,100,False,-100.0,11266.35
+2026-05-27,v1_team_records,823947,Colorado Rockies,Los Angeles Dodgers,away,338.0,0.36,0.224,0.135,100,False,-100.0,11166.35
+2026-05-27,v1_team_records,824270,Los Angeles Angels,Detroit Tigers,away,108.0,0.5,0.467,0.033,100,False,-100.0,11066.35
+2026-05-27,v1_team_records,824432,Washington Nationals,Cleveland Guardians,away,161.0,0.48,0.376,0.104,100,False,-100.0,10966.35
+2026-05-27,v1_team_records,824596,Minnesota Twins,Chicago White Sox,away,111.0,0.495,0.465,0.031,100,False,-100.0,10866.35
+2026-05-27,v1_team_records,824756,Atlanta Braves,Boston Red Sox,home,101.0,0.381,0.167,0.214,100,True,101.0,10967.35
+2026-05-27,v1_team_records,824836,Tampa Bay Rays,Baltimore Orioles,away,-105.0,0.59,0.502,0.087,100,False,-100.0,10867.35
+2026-05-27,v1_team_records,825003,Seattle Mariners,Athletics,home,112.0,0.505,0.461,0.044,100,False,-100.0,10767.35
+2026-05-28,v1_team_records,822896,Houston Astros,Texas Rangers,away,125.0,0.491,0.434,0.057,100,True,125.0,10892.35
+2026-05-28,v1_team_records,823378,Chicago Cubs,Pittsburgh Pirates,away,147.0,0.509,0.395,0.114,100,True,147.0,11039.35
+2026-05-28,v1_team_records,824272,Los Angeles Angels,Detroit Tigers,away,116.0,0.488,0.455,0.033,100,True,116.0,11155.35
+2026-05-28,v1_team_records,824595,Minnesota Twins,Chicago White Sox,away,134.0,0.486,0.421,0.065,100,False,-100.0,11055.35
+2026-05-28,v1_team_records,824757,Atlanta Braves,Boston Red Sox,away,-127.0,0.608,0.552,0.056,100,True,78.74,11134.09
+2026-05-28,v1_team_records,824834,Toronto Blue Jays,Baltimore Orioles,away,115.0,0.51,0.458,0.052,100,True,115.0,11249.09
+2026-05-29,v1_team_records,823055,Chicago Cubs,St. Louis Cardinals,home,125.0,0.497,0.435,0.061,100,True,125.0,11374.09
+2026-05-29,v1_team_records,823135,Arizona Diamondbacks,Seattle Mariners,away,132.0,0.535,0.42,0.114,100,False,-100.0,11274.09
+2026-05-29,v1_team_records,823377,Minnesota Twins,Pittsburgh Pirates,away,119.0,0.482,0.447,0.036,100,False,-100.0,11174.09
+2026-05-29,v1_team_records,823946,Philadelphia Phillies,Los Angeles Dodgers,home,-112.0,0.554,0.492,0.062,100,True,89.29,11263.37
+2026-05-29,v1_team_records,824191,Milwaukee Brewers,Houston Astros,away,-116.0,0.582,0.46,0.122,100,True,86.21,11349.58
+2026-05-29,v1_team_records,824353,San Francisco Giants,Colorado Rockies,home,147.0,0.472,0.397,0.075,100,True,147.0,11496.58
+2026-05-29,v1_team_records,824433,Boston Red Sox,Cleveland Guardians,home,-123.0,0.576,0.536,0.041,100,True,81.3,11577.88
+2026-05-29,v1_team_records,824835,Toronto Blue Jays,Baltimore Orioles,away,102.0,0.518,0.443,0.075,100,True,102.0,11679.88
+2026-06-05,v1_team_records,822810,Baltimore Orioles,Toronto Blue Jays,away,131.0,0.5,0.422,0.078,100,True,131.0,11810.88
+2026-06-05,v1_team_records,823049,Cincinnati Reds,St. Louis Cardinals,away,124.0,0.488,0.436,0.052,100,False,-100.0,11710.88
+2026-06-05,v1_team_records,823455,Chicago White Sox,Philadelphia Phillies,away,160.0,0.5,0.38,0.12,100,False,-100.0,11610.88
+2026-06-05,v1_team_records,823699,Kansas City Royals,Minnesota Twins,away,101.0,0.467,0.178,0.289,100,False,-100.0,11510.88
+2026-06-05,v1_team_records,824271,Seattle Mariners,Detroit Tigers,away,-121.0,0.569,0.534,0.035,100,False,-100.0,11410.88
+2026-06-05,v1_team_records,824350,Milwaukee Brewers,Colorado Rockies,away,-148.0,0.618,0.582,0.036,100,True,67.57,11478.45
+2026-06-05,v1_team_records,824673,San Francisco Giants,Chicago Cubs,away,147.0,0.431,0.396,0.035,100,True,147.0,11625.45
+2026-06-05,v1_team_records,825073,Washington Nationals,Arizona Diamondbacks,away,117.0,0.48,0.45,0.03,100,True,117.0,11742.45
+2026-06-06,v1_team_records,822891,Cleveland Guardians,Texas Rangers,home,-113.0,0.47,0.373,0.097,100,False,-100.0,11642.45
+2026-06-06,v1_team_records,823292,New York Mets,San Diego Padres,home,108.0,0.538,0.47,0.068,100,True,108.0,11750.45
+2026-06-06,v1_team_records,823454,Chicago White Sox,Philadelphia Phillies,away,120.0,0.492,0.446,0.046,100,True,120.0,11870.45
+2026-06-06,v1_team_records,823697,Kansas City Royals,Minnesota Twins,away,136.0,0.458,0.416,0.043,100,True,136.0,12006.45
+2026-06-06,v1_team_records,823942,Los Angeles Angels,Los Angeles Dodgers,away,302.0,0.369,0.248,0.122,100,False,-100.0,11906.45
+2026-06-06,v1_team_records,824184,Athletics,Houston Astros,away,103.0,0.516,0.166,0.35,100,False,-100.0,11806.45
+2026-06-06,v1_team_records,824351,Milwaukee Brewers,Colorado Rockies,home,235.0,0.376,0.298,0.078,100,False,-100.0,11706.45
+2026-06-06,v1_team_records,824915,Pittsburgh Pirates,Atlanta Braves,away,102.0,0.441,0.33,0.111,100,False,-100.0,11606.45
+2026-06-06,v1_team_records,825075,Washington Nationals,Arizona Diamondbacks,away,136.0,0.488,0.417,0.071,100,True,136.0,11742.45
+2026-06-07,v1_team_records,822807,Baltimore Orioles,Toronto Blue Jays,away,119.0,0.5,0.445,0.055,100,False,-100.0,11642.45
+2026-06-07,v1_team_records,822890,Cleveland Guardians,Texas Rangers,away,128.0,0.537,0.431,0.106,100,False,-100.0,11542.45
+2026-06-07,v1_team_records,823047,Cincinnati Reds,St. Louis Cardinals,away,131.0,0.473,0.43,0.044,100,False,-100.0,11442.45
+2026-06-07,v1_team_records,823291,New York Mets,San Diego Padres,home,-103.0,0.545,0.499,0.046,100,False,-100.0,11342.45
+2026-06-07,v1_team_records,823453,Chicago White Sox,Philadelphia Phillies,away,147.0,0.5,0.395,0.105,100,False,-100.0,11242.45
+2026-06-07,v1_team_records,823696,Kansas City Royals,Minnesota Twins,home,-102.0,0.532,0.494,0.039,100,False,-100.0,11142.45
+2026-06-07,v1_team_records,823857,Tampa Bay Rays,Miami Marlins,away,-106.0,0.568,0.505,0.063,100,False,-100.0,11042.45
+2026-06-07,v1_team_records,824183,Athletics,Houston Astros,away,100.0,0.508,0.465,0.042,100,True,100.0,11142.45
+2026-06-07,v1_team_records,824268,Seattle Mariners,Detroit Tigers,away,100.0,0.567,0.347,0.219,100,False,-100.0,11042.45
+2026-06-07,v1_team_records,825074,Washington Nationals,Arizona Diamondbacks,away,114.0,0.496,0.453,0.043,100,False,-100.0,10942.45
+2026-06-08,v1_team_records,822806,Philadelphia Phillies,Toronto Blue Jays,home,148.0,0.474,0.397,0.077,100,False,-100.0,10842.45
+2026-06-08,v1_team_records,822972,Boston Red Sox,Tampa Bay Rays,home,101.0,0.582,0.18,0.401,100,True,101.0,10943.45
+2026-06-08,v1_team_records,823218,Washington Nationals,San Francisco Giants,away,136.0,0.55,0.417,0.133,100,True,136.0,11079.45
+2026-06-08,v1_team_records,823289,Cincinnati Reds,San Diego Padres,away,118.0,0.484,0.45,0.034,100,False,-100.0,10979.45
+2026-06-08,v1_team_records,824427,New York Yankees,Cleveland Guardians,away,115.0,0.518,0.461,0.057,100,True,115.0,11094.45
+2026-06-09,v1_team_records,822805,Philadelphia Phillies,Toronto Blue Jays,away,-102.0,0.533,0.497,0.036,100,False,-100.0,10994.45
+2026-06-09,v1_team_records,822969,Boston Red Sox,Tampa Bay Rays,home,106.0,0.588,0.164,0.424,100,True,106.0,11100.45
+2026-06-09,v1_team_records,823214,Washington Nationals,San Francisco Giants,away,100.0,0.557,0.457,0.1,100,True,100.0,11200.45
+2026-06-09,v1_team_records,823290,Cincinnati Reds,San Diego Padres,home,107.0,0.523,0.474,0.049,100,False,-100.0,11100.45
+2026-06-09,v1_team_records,823374,Los Angeles Dodgers,Pittsburgh Pirates,away,-103.0,0.553,0.496,0.056,100,True,97.09,11197.54
+2026-06-09,v1_team_records,823620,St. Louis Cardinals,New York Mets,away,114.0,0.555,0.461,0.094,100,True,114.0,11311.54
+2026-06-09,v1_team_records,823858,Arizona Diamondbacks,Miami Marlins,away,114.0,0.527,0.457,0.07,100,False,-100.0,11211.54
+2026-06-09,v1_team_records,824023,Houston Astros,Los Angeles Angels,away,-120.0,0.55,0.503,0.048,100,False,-100.0,11111.54
+2026-06-09,v1_team_records,824267,Minnesota Twins,Detroit Tigers,away,114.0,0.523,0.46,0.062,100,False,-100.0,11011.54
+2026-06-09,v1_team_records,824830,Seattle Mariners,Baltimore Orioles,home,105.0,0.47,0.409,0.061,100,False,-100.0,10911.54
+2026-06-09,v1_team_records,824999,Milwaukee Brewers,Athletics,home,102.0,0.423,0.333,0.09,100,True,102.0,11013.54
+2026-06-10,v1_team_records,822804,Philadelphia Phillies,Toronto Blue Jays,home,121.0,0.475,0.443,0.032,100,False,-100.0,10913.54
+2026-06-10,v1_team_records,823215,Washington Nationals,San Francisco Giants,away,100.0,0.565,0.463,0.101,100,False,-100.0,10813.54
+2026-06-10,v1_team_records,823287,Cincinnati Reds,San Diego Padres,away,147.0,0.485,0.398,0.087,100,False,-100.0,10713.54
+2026-06-10,v1_team_records,823372,Los Angeles Dodgers,Pittsburgh Pirates,home,178.0,0.441,0.354,0.088,100,True,178.0,10891.54
+2026-06-10,v1_team_records,823618,St. Louis Cardinals,New York Mets,away,118.0,0.562,0.452,0.11,100,True,118.0,11009.54
+2026-06-10,v1_team_records,823856,Arizona Diamondbacks,Miami Marlins,home,101.0,0.481,0.339,0.142,100,True,101.0,11110.54
+2026-06-10,v1_team_records,824022,Houston Astros,Los Angeles Angels,away,105.0,0.54,0.507,0.033,100,False,-100.0,11010.54
+2026-06-10,v1_team_records,824266,Minnesota Twins,Detroit Tigers,away,150.0,0.513,0.391,0.123,100,True,150.0,11160.54
+2026-06-10,v1_team_records,824348,Chicago Cubs,Colorado Rockies,home,149.0,0.424,0.394,0.03,100,True,149.0,11309.54
+2026-06-10,v1_team_records,824996,Milwaukee Brewers,Athletics,away,-104.0,0.569,0.498,0.071,100,False,-100.0,11209.54

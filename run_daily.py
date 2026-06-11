@@ -58,6 +58,11 @@ run_step("Predict today's games", ["python", "predict.py"])
 
 # Step 6: evaluate the running scorecard
 run_step("Evaluate scorecard", ["python", "evaluate.py"])
+# Step 7: simulate paper trading
+run_step("Simulate paper trading",     ["python", "simulate_bets.py"])
+
+# Step 8: generate charts
+run_step("Generate charts",            ["python", "chart_bankroll.py"])
 
 
 print()
@@ -67,3 +72,6 @@ print(f" Predictions saved to predictions.csv")
 print(f" Results saved to results.csv")
 print(f" Scorecard snapshot in scorecard_history.csv")
 print(f" Detailed graded predictions in graded.csv")
+print(f" Simulated bets in bets.csv")
+print(f" Daily bankroll in bankroll.csv")
+print(f" Charts refreshed in charts/")

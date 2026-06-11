@@ -15,6 +15,12 @@ Every morning, one command ('Python run_daily.py) runs the full pipeline:
 5. **Predicts each game** using the current model version
 6. **Evaluates** all historical predictions against actual results
 
+## Paper trading performance
+
+After ~1 month of daily predictions and ~200 simulated $100 flat-stake bets at a 3% edge threshold:
+
+![Equity curve](charts/equity_curve_v1_team_records.png)
+
 Predictions are tagged with a model version and appended to a growing log (`predictions.csv`). Results accumulate in `results.csv`. The scorecard updates over time in `scorecard_history.csv`.
 
 ## Model versions
